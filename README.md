@@ -1,3 +1,5 @@
+## k6 Load Testing with Docker Compose
+
 #### Running the tests
 Start InfluxDB and Grafana:
 ```
